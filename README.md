@@ -14,7 +14,8 @@ Technologies Used
 Java
 MySQL
 JDBC (Java Database Connectivity)
-Prerequisites
+
+Prerequisites:
 JDK (Java Development Kit) installed
 MySQL Server installed and running
 MySQL JDBC Driver
